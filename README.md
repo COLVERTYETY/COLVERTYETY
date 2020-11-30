@@ -1,5 +1,5 @@
-### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=COLVERTYETY)](https://github.com/anuraghazra/github-readme-stats)
+### Greetings !!
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=COLVERTYETY&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **COLVERTYETY/COLVERTYETY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
