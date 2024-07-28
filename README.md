@@ -1,6 +1,6 @@
 ### Greetings !!
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=COLVERTYETY&theme=react)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=COLVERTYETY&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![COVLERTYETY's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=COLVERTYETY&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **COLVERTYETY/COLVERTYETY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🤖 [get to know me with my portfolio](https://stasnicolas.com/) 🤖
